@@ -1,4 +1,4 @@
-# alx zero day
+# alx-zero-day
 
 Module of **alx zero day**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
 
