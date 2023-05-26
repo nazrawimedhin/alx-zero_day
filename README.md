@@ -1,6 +1,6 @@
 # alx-zero_day
 
-Module of **alx zero day**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
+Module of **alx-zero_day**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com)**.
 
 ## Technologies
 
